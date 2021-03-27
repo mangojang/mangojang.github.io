@@ -16,11 +16,11 @@ minimal_mistakes_skin    : "sunrise" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "ko-KR"
-title                    : "mangojang의 종합장"
+title                    : "개발새발"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "mangojang"
-description              : "An amazing website."
+description              : "주인장 맘대로  개발 관련 글을 개발 새발 포스팅 하는 블로그"
 url                      : "https://mangojang.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -94,11 +94,11 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "mangojang"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
-  location         : "Somewhere"
-  email            :
+  bio              : "성공하고 싶은 장망고씨"
+  location         : "대한민국, 수원"
+  email            : "mangojang@gmail.com
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
