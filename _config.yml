@@ -96,7 +96,7 @@ analytics:
 author:
   name             : "mangojang"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "한발짝, 두발짝 "
+  bio              : "한발짝, 두발짝"
   location         : "대한민국"
   email            : "mangojang@gmail.com"
   links:
